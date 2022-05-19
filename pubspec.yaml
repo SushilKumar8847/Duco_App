@@ -125,10 +125,10 @@ flutter:
   fonts:
   - family: ProductSans
     fonts:
-      # - asset: assets/fonts/ProductSans-Thin.ttf
-      #   weight: 100
-      # - asset: assets/fonts/ProductSans-Thin.ttf
-      #   weight: 200
+      - asset: assets/fonts/ProductSans-Thin.ttf
+        weight: 100
+      - asset: assets/fonts/ProductSans-Thin.ttf
+        weight: 200
       - asset: assets/fonts/ProductSans-Light.ttf
         weight: 300
       - asset: assets/fonts/ProductSans-Regular.ttf
